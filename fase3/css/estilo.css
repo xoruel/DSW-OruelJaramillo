@@ -1,5 +1,6 @@
 header{
     background-color:blue;
+    outline-color: aliceblue;
     padding: 20px;
 }
 nav{
@@ -12,11 +13,10 @@ section{
 }
 article{
     background-color: aqua;
-    padding: 40px;
+    padding: 10px;
     grid-column: 1/3;
 }
 aside{
-    background-color: aliceblue;
     padding: 40px;
     grid-column: 3/5;
 }
